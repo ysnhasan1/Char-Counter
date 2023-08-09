@@ -1,0 +1,77 @@
+/* Char Counter (style.css) */
+
+body {
+    background-color: #FFE5AD;
+    text-align: center;
+}
+
+.container {
+    /* to center the div */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: column;
+}
+
+.p-top {
+    font-family: 'Black Ops One', cursive;
+    font-size: 50px;
+    box-shadow: 1px 3px 5px black;
+    padding: 20px;
+}
+
+.container textarea {
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+
+    max-width: 700px;
+    max-height: 250px;
+    min-width: 450px;
+    min-height: 150px;
+}
+
+.p-bottom {
+    font-size: 25px;
+    margin: 3px;
+}
+
+footer {
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Media Queries */
+@media (max-width: 600px) {
+
+    .p-top {
+        font-size: 20px;
+    }
+
+    .container textarea {
+        font-size: 15px;
+
+        max-width: 250px;
+        max-height: 150px;
+        min-width: 220px;
+        min-height: 110px;
+    }
+
+    .p-bottom {
+        font-size: 15px;
+    }
+
+    footer {
+        font-size: 13px;
+    }
+
+    footer a {
+        font-size: 13px;
+    }
+}
