@@ -15,4 +15,6 @@ https://ysnhasan1.github.io/Char-Counter/
 <img src="https://github.com/ysnhasan1/Char-Counter/assets/102024926/512c4e7d-6c36-4450-9ff0-07ea7e7439f6"><br />
 
 ## Responsive to Smaller Screen Size (Phone View)
+<div align="center">
 <img src="https://github.com/ysnhasan1/Char-Counter/assets/102024926/b2b03be5-8434-47b5-9405-43e365131e2b" height="500">
+</div>
