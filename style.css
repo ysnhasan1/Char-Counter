@@ -30,6 +30,7 @@ body {
     max-height: 250px;
     min-width: 450px;
     min-height: 150px;
+    resize: none;
 }
 
 .p-bottom {
