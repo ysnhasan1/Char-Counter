@@ -22,7 +22,7 @@ body {
 }
 
 .container textarea {
-    padding: 10px;
+    padding: 15px;
     margin: 10px;
     font-size: 30px;
 
@@ -30,6 +30,9 @@ body {
     max-height: 250px;
     min-width: 450px;
     min-height: 150px;
+
+    border-radius: 15px;
+    outline: none;
     resize: none;
 }
 
